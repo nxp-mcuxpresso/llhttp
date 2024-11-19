@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package: llhttp
+Version: 6.0.5
+Outgoing License: MIT
+License File: LICENSE
+Type of Content: source code, header files
+Description and comments: Port of http_parser to llparse
+Release Location: https://github.com/nxp-mcuxpresso/llhttp
+Origin:
+      NXP (MIT)
+      Node.js (MIT) - https://github.com/nodejs/llhttp

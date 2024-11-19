@@ -1,0 +1,12 @@
+#
+# Copyright 2024 NXP
+#
+# SPDX-License-Identifier: MIT
+#
+
+menuconfig MCUX_COMPONENT_middleware.llhttp
+    bool "llhttp"
+    default n
+    help
+        HTTP parser in LLVM IR
+    select MCUX_COMPONENT_utility.debug_console
